@@ -5,7 +5,7 @@
 ![alt text](https://img.shields.io/badge/Python-3-green.svg)<br>
 <br>
 Gempa is tools for get information of gempa from bmkg.go.id<br>
-![shot](https://github.com/penucuriCode/bmkg/blob/main/img/wa.PNG)
+![shot](https://github.com/pencuricode/bmkg-info/blob/main/img/wa.PNG)
 
 # Gempa feature
 - [x] fast process

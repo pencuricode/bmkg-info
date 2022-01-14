@@ -6,6 +6,10 @@
 <br>
 Gempa is tools for get information of gempa from bmkg.go.id<br>
 ![shot](https://github.com/pencuricode/bmkg-info/blob/main/img/wa.PNG)
+<br><p align="center"><br>
+  <a href="https://github.com/penucuriCode">
+    <img src="https://lanyard-profile-readme.vercel.app/api/447411230098063362"/>
+     </a>
 
 # Gempa feature
 - [x] fast process
